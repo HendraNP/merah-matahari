@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('images/favicon.ico') }}" type="image/x-icon">
     <title>@yield('title', 'Merah Matahari')</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')
