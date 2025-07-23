@@ -33,7 +33,7 @@
 
             <!-- Optional Contact Form -->
             <div class="bg-gray-50 rounded-lg shadow-sm p-6 space-y-4">
-                <form action="https://formspree.io/f/xqabvwyy" method="POST" class="space-y-4">
+                <form action="https://formspree.io/f/mqalpllp" method="POST" class="space-y-4">
                     <input type="hidden" name="replyto" id="replyto" required>
                     <div>
                         <label for="name" class="block font-medium text-sm text-gray-700">Nama</label>
