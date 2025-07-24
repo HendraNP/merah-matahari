@@ -1,23 +1,6 @@
 @extends('layouts.app')
 
 @section('jsonld')
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "{{ $product['product_name'] }}",
-  "image": "{{ asset($product['image']) }}",
-  "description": "{!! json_encode($product->description) !!}",
-  "brand": {
-    "@type": "Brand",
-    "name": "{{ $product['product_brand'] }}"
-  },
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "IDR",
-    "url": "{{ url()->current() }}"
-  }
-}
 </script>
 @endsection
 
