@@ -7,7 +7,7 @@
   "@type": "Product",
   "name": "{{ $product['product_name'] }}",
   "image": "{{ asset($product['image']) }}",
-  "description": "{!! $product->description !!}",
+  "description": "{!! json_encode($product->description) !!}",
   "brand": {
     "@type": "Brand",
     "name": "{{ $product['product_brand'] }}"
