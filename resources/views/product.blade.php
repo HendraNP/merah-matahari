@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Produk Merah Matahari')
+@section('description', 'Dapatkan produk cat berkualitas dari Merah Matahari. Temukan berbagai jenis cat dinding, epoxy, dan anti korosi yang sesuai kebutuhan Anda.')
 @section('content')
 <p class="text-xl text-center mt-4 text-gray-900">
     <a href="{{ url('/catalog/dinding') }}" class="text-indigo-800 underline hover:text-indigo-800 transition">

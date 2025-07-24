@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Merah Matahari')
+@section('description', 'Dapatkan produk cat berkualitas dari Merah Matahari. Temukan berbagai jenis cat dinding, epoxy, dan anti korosi yang sesuai kebutuhan Anda.')
 @section('content')
     <!-- Visual Section / Banner -->
 <section class="bg-white p-0">

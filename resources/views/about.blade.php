@@ -1,5 +1,8 @@
 @extends('layouts.app')
 
+@section('title', 'Tentang Kami - Merah Matahari')
+@section('description', 'Dapatkan bahan baku cat terbaik langsung dari distributor terpercaya.')
+
 @section('content')
 <!-- About Section -->
 <div class="bg-gradient-to-b from-white via-gray-50 to-white py-20 px-6 md:px-20">
