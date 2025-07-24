@@ -57,7 +57,8 @@
                         <p class="text-gray-700">
                             Brand Cat Premium Kami, MM Paint, menawarkan kualitas terbaik untuk kebutuhan cat dinding dan industri. Dengan teknologi terbaru, MM Paint memberikan hasil akhir yang halus, tahan lama, dan mudah dibersihkan.
                         </p></br>
-                        <p>Tidak seperti Brand CM Paint, Brand MM Paint terbagi menjadi 2 kategori, yaitu MM Paint Epoxy Lantai dan MM Paint Anti Korosi.</p></br>
+                        <p>Tidak seperti Brand CM Paint, Brand MM Paint terbagi menjadi 3 kategori, yaitu Cat Dinding MM Paint, MM Paint Epoxy Lantai dan MM Paint Anti Korosi.</p></br>
+                        <p>Cat Dinding MM Paint memiliki kualitas dan ketahanan yang lebih tinggi dibanding Cat Dinding CM Paint</p>
                         <p>Cat Epoxy Lantai MM Paint dirancang khusus untuk memberikan daya tahan tinggi dan awet pada permukaan lantai dan terlihat mengkilap, sedangkan Cat Anti Korosi MM Paint menawarkan perlindungan maksimal terhadap logam dan struktur lainnya dari korosi.</p>
                     </div>
                 </div>
