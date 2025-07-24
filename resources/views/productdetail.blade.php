@@ -1,6 +1,25 @@
 @extends('layouts.app')
 
 @section('jsonld')
+<script type="application/ld+json">
+{!! json_encode([
+  "@context" => "https://schema.org",
+  "@type" => "Product",
+  "name" => $product['product_name'],
+  "image" => asset($product['image']),
+  "description" => $product['description'],
+  "brand" => [
+    "@type" => "Brand",
+    "name" => $product['product_brand'],
+  ],
+  "offers" => [
+    "@type" => "Offer",
+    "priceCurrency" => "IDR",
+    "url" => url()->current(),
+  ],
+], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
+</script>
+
 </script>
 @endsection
 
