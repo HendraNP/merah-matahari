@@ -1,5 +1,26 @@
 @extends('layouts.app')
 
+@section('jsonld')
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "{{ $product['product_name'] }}",
+  "image": "{{ asset($product['image']) }}",
+  "description": "{!! $product->description !!}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ $product['product_brand'] }}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "IDR",
+    "url": "{{ url()->current() }}"
+  }
+}
+</script>
+@endsection
+
 @section('content')
 <section class="bg-white py-16 px-6">
     <div class="max-w-4xl mx-auto">
