@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Katalog Warna Merah Matahari')
+@section('description', 'Temui Pilihan Warna Cat Dinding, Epoxy, dan Anti Korosi dari Merah Matahari. Temukan warna yang sesuai dengan kebutuhan Anda.')
 @section('content')
 @php
     $routeTipe = request()->route('tipe');
