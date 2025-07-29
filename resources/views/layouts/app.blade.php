@@ -8,6 +8,7 @@
     <meta name="keywords" content="cat, supplier cat, manufaktur cat, cat dinding, cat epoxy, cat anti korosi">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')
+    @include('partials.organization-jsonld')
 
     @yield('jsonld')
 </head>

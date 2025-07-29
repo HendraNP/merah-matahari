@@ -21,7 +21,7 @@
                     <h2 class="text-xl font-semibold text-indigo-700">Alamat Kantor</h2>
                     <p>PT. Teknologi Warna Matahari Merah Indonesia</p>
                     <p>Kawasan Industri Jababeka 1</p>
-                    <p>Jl. Jababeka XV 11B, Blok VI No. U19 J</p>
+                    <p>Jl. Jababeka XVIIB, Blok VI No. U19 J</p>
                     <p>Cikarang Utara, Bekasi – Jawa Barat, Indonesia</p>
                 </div>
 

@@ -5,7 +5,7 @@
         <div class="md:w-1/2 text-sm">
             <h4 class="font-semibold text-base mb-2">PT. Teknologi Warna Matahari Merah Indonesia</h4>
             <p>
-                Kawasan Industri Jababeka 1, Jl. Jababeka XV 11B, blok VI No. U19 J <br>
+                Kawasan Industri Jababeka 1, Jl. Jababeka XVIIB, blok VI No. U19J <br>
                 Cikarang Utara Bekasi, Jawa Barat Indonesia<br>
                 Email: marketing001.twmmi@gmail.com<br>
                 Telepon: <a href="https://wa.me/6281220252547" target="_blank" class="text-indigo-600 hover:underline">+62 812 - 2025 - 2547 (WhatsApp)</a><br>
