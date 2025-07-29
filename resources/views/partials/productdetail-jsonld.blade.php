@@ -11,6 +11,6 @@
     "@type": "Brand",
     "name": "{{ $product->product_brand ?? 'Unknown Brand' }}"
 
-  },
+  }
 }
 </script>
