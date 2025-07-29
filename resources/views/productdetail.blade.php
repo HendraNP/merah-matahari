@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@include('partials.productdetail-jsonld', ['product' => $product])
+
 @section('content')
 <section class="bg-white py-16 px-6">
     <div class="max-w-4xl mx-auto">
