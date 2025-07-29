@@ -6,11 +6,10 @@
   "image": [
     "{{ asset($product->image) }}"
   ],
-  "description": "{!! nl2br($product['description']) !!}",
+  "description": {!! json_encode(nl2br($product['description'])) !!},
   "brand": {
     "@type": "Brand",
     "name": "{{ $product->product_brand ?? 'Unknown Brand' }}"
-
   }
 }
 </script>
