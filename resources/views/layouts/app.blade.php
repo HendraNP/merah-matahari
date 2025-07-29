@@ -6,7 +6,7 @@
     <link rel="icon" href="{{ asset('images/favicon.ico') }}" type="image/x-icon">
     <title>@yield('title', 'Merah Matahari')</title>
     <meta name="description" content="@yield('description', 'Menjual Cat Dinding, Epoxy dan Anti Korosi Berkualitas')">
-    <meta name="keywords" content="cat, supplier cat, manufaktur cat, cat dinding, cat epoxy, cat anti korosi">
+    <meta name="keywords" content="cat, supplier cat, manufaktur cat, cat dinding, cat epoxy, cat anti korosi, cat tembok, cat warna, cat berkualitas">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')
     @include('partials.organization-jsonld')
