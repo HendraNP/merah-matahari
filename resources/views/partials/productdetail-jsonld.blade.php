@@ -9,7 +9,8 @@
   "description": "{!! nl2br($product['description']) !!}",
   "brand": {
     "@type": "Brand",
-    "name": "{{ $product->product_brand }}"
+    "name": "{{ $product->product_brand ?? 'Unknown Brand' }}"
+
   },
 }
 </script>
