@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="Wn2ptL8NHJCfbSEL2G18wVIjqz_VaR90IrTO3Ph-UZI" />
     <link rel="icon" href="{{ asset('images/favicon.ico') }}" type="image/x-icon">
     <title>@yield('title', 'Merah Matahari')</title>
     <meta name="description" content="@yield('description', 'Menjual Cat Dinding, Epoxy dan Anti Korosi Berkualitas')">
