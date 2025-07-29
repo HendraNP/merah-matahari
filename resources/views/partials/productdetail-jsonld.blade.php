@@ -16,7 +16,7 @@
     {
       "@type": "PropertyValue",
       "name": "Keywords",
-      "value": ['cat', 'cat dinding', 'cat tembok', 'cat epoxy', 'cat anti korosi', 'supplier cat', 'manufaktur cat']
+      "value": ['cat', 'cat dinding', 'cat tembok', 'cat epoxy', 'cat anti korosi', 'supplier cat', 'manufaktur cat', 'cat berkualitas', 'cat warna', 'cat dinding terbaik', 'cat epoxy terbaik', 'cat anti korosi terbaik']
     }
   ]
 }
