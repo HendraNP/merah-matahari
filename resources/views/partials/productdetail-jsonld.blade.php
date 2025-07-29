@@ -9,7 +9,14 @@
   "description": "{!! nl2br($product['description']) !!}",
   "brand": {
     "@type": "Brand",
-    "name": "{{ $product->brand }}"
+    "name": "{{ $product->product_brand }}"
   },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Keywords",
+      "value": ['cat', 'cat dinding', 'cat tembok', 'cat epoxy', 'cat anti korosi', 'supplier cat', 'manufaktur cat']
+    }
+  ]
 }
 </script>
