@@ -5,7 +5,7 @@
     <meta name="google-site-verification" content="Wn2ptL8NHJCfbSEL2G18wVIjqz_VaR90IrTO3Ph-UZI" />
     <link rel="icon" href="{{ asset('images/favicon.ico') }}" type="image/x-icon">
     <title>@yield('title', 'Merah Matahari')</title>
-    <meta name="description" content="@yield('description', 'Menjual Cat Dinding, Epoxy dan Anti Korosi Berkualitas')">
+    <meta name="description" content="@yield('description', 'Temukan produk cat dinding terbaik dari MM Paint dan CM Paint. Cocok untuk interior, eksterior, dan berbagai kebutuhan lainnya. Kami Menjual cat dinding terbaik untuk interior dan eksterior, termasuk epoxy dan anti korosi. Produk berkualitas dari Merah Matahari.')">
     <meta name="keywords" content="cat, supplier cat, manufaktur cat, cat dinding, cat epoxy, cat anti korosi, cat tembok, cat warna, cat berkualitas">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @stack('styles')
